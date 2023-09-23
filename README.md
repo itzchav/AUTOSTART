@@ -1,7 +1,7 @@
 # AUTOSTART
 
 ## Configuraciones iniciales 
-1. Dirijirse a la Pagina de [NVIDIA](https://developer.nvidia.com/embedded/jetpack-archive) para desargar el jetpack.
+1. Dirigirse a la Pagina de [NVIDIA](https://developer.nvidia.com/embedded/jetpack-archive) para desargar el jetpack.
  
    Hay diversas caracteristicas que se deben tomar encuenta al elegir el Jetpack como la versión de Ubuntu que se tenga instalada en la computadora .
 
