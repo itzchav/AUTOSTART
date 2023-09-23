@@ -5,7 +5,7 @@
  
    Hay diversas caracteristicas que se deben tomar encuenta al elegir el Jetpack como la versión de Ubuntu que se tenga instalada en la computadora .
 
-    En nuestro caso tenemos instalado Ubuntu 18.04 en la computadora por lo cual instalaremos[Jetpack 3.3.3](https://developer.nvidia.com/embedded/jetpack-3_3_3)
+   De acuerdo a las necesidades del proyecto en el que se este trabajando, se intala la version de Jetpack, en este caso utilizamos: [Jetpack 3.3.3](https://developer.nvidia.com/embedded/jetpack-3_3_3)
 
 
 5. Grabar la imagen en la SD.
