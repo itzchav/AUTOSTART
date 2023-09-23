@@ -13,7 +13,7 @@
 6. Posteriormente se coloca la SD en la jetson, enseguida se conecta la Jetson a la fuente alimentación.
 
    
-7. Instalar los drives para WIFI  "rtl88x2bu".  
+7. Instalar los drives para WIFI en este caso "rtl88x2bu".  
 
 8. Instalar ROS en la Jetson.
 
@@ -99,11 +99,11 @@ Se cierra la ventana de comenandos se apaga la Jetson para realizar la prueba de
 
 ## Prueba de funcionamiento
 
-Inicialmente se tiene al Turtleboot apagado, la Jetson desconectada 
+Inicialmente se tiene al Turtlebot apagado, la Jetson desconectada 
 
 1. Se conecta el Turtlebbot
 2. Se conecta la Jetson
-3. Se debe de escuchar un tono tres veces consecutivas indicando que este levanto el roscore(ESO NOS INDICA QUE EL AUTOSATART SE CONFIGURO CORRECTAMENTE)
+3. Se debe de escuchar un tono tres veces consecutivas indicando que este inició el roscore(ESO NOS INDICA QUE EL AUTOSATART SE CONFIGURO CORRECTAMENTE)
 
 
 
