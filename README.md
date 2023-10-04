@@ -13,7 +13,7 @@
 6. Posteriormente se coloca la SD en la jetson, enseguida se conecta la Jetson a la fuente alimentación.
 
    
-7. Instalar los drives para WIFI en este caso "rtl88x2bu".  
+7. Instalar los drives para WIFI en caso de contar con una Jetson sin el módulo de wifi.
 
 8. Instalar ROS en la Jetson.
 
